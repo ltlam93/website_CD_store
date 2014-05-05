@@ -1,0 +1,130 @@
+/* Reset */
+
+::selection { background-color: #da4800; }
+::-moz-selection { background-color: #da4800; }
+::-webkit-selection { background-color: #da4800; }
+
+a:hover { color: #da4800; }
+
+blockquote { color: #da4800; }
+
+
+/* Forms */
+
+		.main-login .input-error-wrapper span { color: #da4800; }
+
+
+/* Default elements */
+
+.main-body-color-mask { background-color: rgba(218, 72, 0, 0.04); }
+
+button { background-color: #da4800; }
+button:hover { color: #ff702a; }
+
+	.item-block-1 .overlay { background-color: rgba(218, 72, 0, 0.6); }
+
+	.title-details a:hover { color: #da4800; }
+	
+.more-link { color: #da4800; }
+
+
+/* Layout structure */
+
+	.main-header .logo { color: #da4800; }
+	.main-header .slogan { color: #da4800; }
+
+		.main-header .login .password { color: #da4800; }
+
+	.pages a { color: #da4800; }
+	.pages a:hover { background-color: rgba(218, 72, 0, 0.1); }
+	.pages .active { background-color: #da4800; }
+	.pages .active:hover { background-color: #da4800; }
+
+.full-size-switcher { background-color: #da4800; }
+
+	.main-footer a:hover { color: #ff702a; }
+	.main-footer .navigation { color: #ff702a; }
+		.main-footer .twitter a { color: #ff702a; }
+		.main-footer .twitter a:hover { color: #ff702a; }
+
+
+/* Main menu */
+
+		.main-menu li:hover > a { color: #ff702a; }
+		.main-menu li > a:hover { color: #ff702a; }
+
+				.main-menu ul ul li:hover > a { color: #ff702a; }
+
+
+/* Main slider */
+
+		.main-slider nav a { color: #da4800; box-shadow: #da4800 0 3px 0 inset, #da4800 0 -3px 0 inset, #da4800 3px 0 0 inset, #da4800 -3px 0 0 inset; }
+		.main-slider nav a:hover { background-color: #da4800; }
+		.main-slider nav .active { background-color: #da4800; }
+
+		.main-slider .title .headline { background-color: #da4800; }
+		.main-slider .title .intro { background-color: #da4800; }
+		.main-slider .title a:hover { color: #ff702a; }
+
+
+/* Page items */
+
+	.welcome-message-1 h2 { color: #da4800; }
+	
+			.featured-items .item-block-1 .price { color: #da4800; }
+			
+			.homepage-columns .blog h2 a { color: #da4800; }
+
+		.homepage-columns .best-sellers .price { color: #da4800; }
+
+			.blog-list article .title a { color: #da4800; }
+
+	.post h1, .post h2, .post h3, .post h4, .post h5, .post h6 { color: #da4800; }
+			.post article .title a { color: #da4800; }
+	.post li { color: #da4800; }
+
+	.tags .active { color: #da4800; }
+
+		.main-sidebar .best-sellers .price { color: #da4800; }
+
+			.recent-posts article .title a { color: #da4800; }
+
+
+/* Catalog */
+
+			.catalog .sorting .tags .active { color: #da4800; }
+		.catalog .item-block-1 .price { color: #da4800; }
+
+	.quick-shop .close { background: #da4800 url(../images/arrow-14.png) center center no-repeat; color: #da4800; box-shadow: #da4800 0 3px 0 inset, #da4800 0 -3px 0 inset, #da4800 3px 0 0 inset, #da4800 -3px 0 0 inset; }
+
+
+/* Item */
+
+			.main-item .item-info .details .tags a { color: #da4800; }
+
+		.main-item .item-info .price { color: #da4800; }
+
+
+/* Cart */
+
+				.main-cart form .product p a:hover { color: #da4800; }
+		.main-cart form .price { color: #da4800; }
+			.main-cart form .total p { color: #da4800; }
+
+
+/* Order & customer sections */
+
+		.order-wrapper .row a { color: #da4800; }
+		.order-wrapper .row .price { color: #da4800; }
+		.order-wrapper .row .total { color: #da4800; }
+
+			.order-wrapper .buttons span a { color: #da4800; }
+
+		.manage-addresses .edit a { color: #da4800; }
+		.manage-addresses .save a { color: #da4800; }
+
+	.order-history a { color: #da4800; }
+
+		.shipping-address-history .content a { color: #da4800; }
+
+	.main-login a { color: #da4800; }
